@@ -390,8 +390,6 @@ button:hover {
 .right {
     width: 780;
     height: 420;
-    /* background-color: #0056b3;
-    display: none; */
 }
 
 .second-page-down {
@@ -417,17 +415,11 @@ button:hover {
 .third-page-button {
     display: flex;
     justify-content: center;
-    /* Centering horizontally */
     align-items: center;
-    /* Centering vertically if needed */
     gap: 24px;
-    /* Reduced gap for better spacing */
     width: 100%;
-    /* Full width */
     padding: 24px 0;
-    /* Adjust padding for spacing */
     flex-wrap: wrap;
-    /* Ensures buttons wrap on smaller screens */
 }
 
 .third-page-button button {
@@ -443,7 +435,7 @@ button:hover {
 .third-page-button button:hover {
     background-color: #0056b3;
     color: white;
-    /* Darker shade on hover */
+
 }
 
 
@@ -452,17 +444,17 @@ button:hover {
 .forth-page-button {
     display: flex;
     justify-content: center;
-    /* Centering horizontally */
+
     align-items: center;
-    /* Centering vertically if needed */
+
     gap: 24px;
-    /* Reduced gap for better spacing */
+
     width: 100%;
-    /* Full width */
+
     padding: 24px 0;
-    /* Adjust padding for spacing */
+
     flex-wrap: wrap;
-    /* Ensures buttons wrap on smaller screens */
+
 }
 
 .forth-page-button button {
@@ -478,7 +470,7 @@ button:hover {
 .forth-page-button button:hover {
     background-color: #0056b3;
     color: white;
-    /* Darker shade on hover */
+
 }
 
 .forth-page-middle {
@@ -488,5 +480,3 @@ button:hover {
     width: 50%;
     height: 50%;
 }
-
-/* Content Box */
